@@ -5,6 +5,9 @@
   "repository": "git@github.com:JuvenalAmarante/myContacts.git",
   "author": "Juvenal Amarante <juvenalamarante13@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.3"
   },
